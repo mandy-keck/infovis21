@@ -1,0 +1,6 @@
+pandas
+seaborn
+numpy
+matplotlib
+plotly
+plotly_express
